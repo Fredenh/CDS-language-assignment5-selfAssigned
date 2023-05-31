@@ -1,5 +1,5 @@
 # Create virtual environment
-python3 -m venv assignment_5_env
+python3 -m venv assignment5_env
 
 # Installing packages
 python -m spacy download en_core_web_md
